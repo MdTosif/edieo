@@ -68,20 +68,4 @@ class UserHelper {
   }
 }
 
-UserHelper.AddUser({
-  username: "Tosif2",
-  password: "xy12344",
-  email: "tosif1@gmao.in",
-});
-
-// UserHelper.getAllUser();
-// UserHelper.deleteAllUser();
-
-// UserHelper.authenticate({
-//     user: 'Tosif4',
-//     password: 'xy123'
-// });
-
-// UserHelper.getUser('Tosif4');
-
 export default UserHelper;
